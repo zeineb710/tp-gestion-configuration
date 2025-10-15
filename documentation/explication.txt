@@ -1,0 +1,23 @@
+## Contexte
+Site web spécialisé dans la restauration tunisienne permettant aux restaurateurs 
+de promouvoir leurs établissements et aux consommateurs de découvrir et réserver.
+
+## Fonctionnalités principales
+
+### Pour les restaurateurs
+- Inscription sur le site
+- Gestion de profil (nom, email, mot de passe, téléphone)
+- Publication d'informations (nom, adresse, prix moyen, prix réservation)
+
+### Pour les consommateurs
+- Consultation libre des restaurants
+- Évaluation des restaurants (notes)
+- Dépôt de commentaires
+- Réservation de tables
+
+### Système de réservation
+- Demande de réservation par le consommateur
+- Validation par le restaurateur
+- Confirmation/annulation possible
+- Mail de confirmation automatique
+
